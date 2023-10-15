@@ -161,7 +161,7 @@ void sort(double *global_telemetry, const int tot_elements) {
           global_telemetry[i+2] = y;
           swapped = true;
       }
-      meaningful_length -= 3;
+      //meaningful_length -= 3;
     }
 
   }
